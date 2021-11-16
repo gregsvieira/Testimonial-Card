@@ -9,7 +9,7 @@
 </p>
 
 <h4 align="center">
-An Testimonial Cards with Swiper.Js.
+Testimonial Cards with Swiper.Js.
 </h4>
 
 <p align="center">
